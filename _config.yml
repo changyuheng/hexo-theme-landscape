@@ -2,6 +2,8 @@
 menu:
   Home: /
   Archives: /archives
+  GitHub: https://github.com/changyuheng
+  About: /about
 rss: /atom.xml
 
 # Content
@@ -11,14 +13,11 @@ fancybox: true
 # Sidebar
 sidebar: left
 widgets:
-- category
-- tag
-- tagcloud
-- archive
 - recent_posts
+- tag
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-44162683-1
 favicon: /favicon.png
 twitter:
 google_plus:
