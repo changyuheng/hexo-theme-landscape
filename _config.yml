@@ -2,8 +2,10 @@
 menu:
   Home: /
   Archives: /archives
-  GitHub: https://github.com/changyuheng
   About: /about
+  GitHub: https://github.com/changyuheng
+  LinkedIn: http://tw.linkedin.com/pub/yu-heng-chang/56/583/6b8/
+  Facebook: https://www.facebook.com/mr.changyuheng
 rss: /atom.xml
 
 # Content
