@@ -14,7 +14,7 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: left
+sidebar: bottom
 widgets:
 - recent_posts
 - tag
